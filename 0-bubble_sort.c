@@ -2,8 +2,8 @@
 
 /**
  * bubble_sort - Entry point
- * array: pointer
- * size: int
+ * @array: pointer
+ * @size: int
  * Return: void
  */
 void bubble_sort(int *array, size_t size)
